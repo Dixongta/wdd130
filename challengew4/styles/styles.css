@@ -1,0 +1,82 @@
+/* * {
+    border: 2px solid blue;
+} */
+nav{
+  text-align: center;
+  width: 90%;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 1.6em;
+}
+a:link { 
+  text-decoration: none;
+}
+a:hover {
+  color: white;
+}
+body {
+    background-color: rgb(197, 82, 147);
+  }
+  img {
+    display: block;
+    width: 18%;
+    margin: 0 auto;
+  }
+  h1{
+    text-align: center;
+    width: 24%;
+    font-size: 12px;
+    transform: translate(150%, -10%);
+    color: white;
+    font-weight: 300;
+  }
+  h2{
+    text-align: center;
+    width: 97%;
+    font-size: 20px;
+    color: white;
+    font-weight: 300;
+    margin: 0px;
+  }
+  ul {
+    text-align: justify;
+    width: 40%;
+    display:inline-block;
+    border-width: 0px;
+    list-style-type: number;
+    transform: translate(75%, -10%);
+    font-weight: bold;
+  }
+  p{
+    text-align: center;
+    width: 9em;
+    transform: translate(240%, -10%);
+    font-size: 28px;
+    text-indent: 0.29em;
+    color: aliceblue;
+    }
+  .textaligment{
+    text-align: center;
+    width: 22em;
+    transform: translate(155%, -10%);
+    font-size: 16px;
+    text-indent: 0px;
+    margin: 0em;
+    font-weight: bold;
+    color: black;
+  }
+  .nameprofet{
+    text-align: center;
+    width: 10em;
+    transform: translate(400%, -10%);
+    font-size: 16px;
+    text-indent: 0px;
+    margin: 0em;
+    font-weight: bold;
+    color: black;
+  }
+
+  
+
+  
+
