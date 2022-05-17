@@ -1,0 +1,21 @@
+
+.size{
+    width: 230px;
+    padding: 10px;
+    margin: 7%;
+    transform: translate(90%, -2%);
+    background-color: rgb(75, 71, 71);
+    border-radius: 1000px ;
+        ;
+}
+#color{
+    background-color: gray;
+}
+.main_image{
+    width: 100%;
+    margin: 0%;
+}
+
+/* * {
+    border: 2px solid blue;
+} */
