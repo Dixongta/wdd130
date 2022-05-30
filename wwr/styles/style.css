@@ -61,14 +61,14 @@ footer{
     background-color:mediumslateblue;
     padding: 25px 50px;
     margin-top: 200px;
-    height: 300;
+    height: 200px;
     margin: 90px;
     justify-content: space-around;
     align-items: center;
     display: flex;
 }
 .mountains{
-    height: 300;
+    height: 500px;
     margin-top: 200px;
     margin: 90px;
     grid-column: 2/7;
