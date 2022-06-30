@@ -30,3 +30,7 @@
     z-index: 1;
     font-size: 170px;
 }
+section{
+    display: grid 1fr 1fr 1fr;
+    background-color: rgb(60, 83, 27);
+}
