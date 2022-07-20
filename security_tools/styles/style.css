@@ -1,0 +1,132 @@
+/* Logo style */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Water+Brush&display=swap');
+
+
+.logo_image{
+    border-radius: 120px;
+    width: 150px;
+    margin-left:45%;
+}
+.background_for_logo{
+    background-color:#1236a3;
+}
+
+.links{
+    display: grid;
+    grid-template-columns:  1rf 1rf 1rf 1rf;
+    margin: 30px;
+    padding: 0px;
+}
+.alink{
+    grid-template-rows: 1;
+    grid-template-columns: 2/3;
+    padding: 1%;
+    background-color:#bb9a6f ;
+    margin: 50px;
+    margin-top: 50px;
+}
+.search_position{
+margin-bottom: 2px;
+margin-top: -45px;
+margin-left: 70%;
+font-size: 30px;
+
+
+    
+}
+footer{
+    background-color:#1236a3;
+    padding: 25px 50px;
+    margin-top: 200px;
+    height: 200px;
+    margin: 90px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    padding-top: 35px;
+    margin-bottom: 5px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+.footer_links{
+    color:black;
+}
+.socialmedia{
+    padding: 20px;
+}
+main{
+    display: grid;
+    grid-template-columns: 1rf 1rf 1rf;
+    font-family: "Water Brush&display=swa", Helvetica, sans-serif;
+    font-size: 40px;
+    background-color: white;
+}
+
+
+
+.image_page1_home{
+    grid-column: 3;
+    grid-row: 1/1;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.image_page2_home{
+    grid-column: 1/1;
+    grid-row: 2/2;
+}
+.buttom{
+    grid-column: 2;
+    margin-left: 1200px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;
+    background-color:#4CAF50;
+}
+
+.text_home_paragrah1{
+    grid-template-columns: 2/3;
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: -25%;
+    margin-bottom: 280px;
+    font-size: 30px;
+    font-family:"Roboto";
+}
+.background_home_images{
+    background-color: #4dc4be;
+    margin: 30px;
+    margin-left: 4.3%;
+    margin-right: 4%;
+
+}
+
+.image_page2_home{
+    grid-column: 3;
+    grid-row: 1/1;
+    margin-left: 5%;
+    margin-top: 2%;}
+
+.buttom2{
+    grid-column: 2;
+    margin-left: 1200px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;
+    background-color:#4CAF50;
+}
+.text_home_paragrah2{
+    grid-template-columns: 2/3;
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: -25%;
+    margin-bottom: 280px;
+    font-size: 30px;
+    font-family:"Roboto";
+}
