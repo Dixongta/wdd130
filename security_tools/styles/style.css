@@ -216,3 +216,204 @@ main{
   }
 
   /* _________________________________ */
+  .main{
+    display: grid;
+    grid-template-columns: 1rf 1rf 1rf 1rf;
+    grid-template-rows: 2;
+}
+
+
+  .text_home_hardware{
+    grid-template-columns: 2/3;
+    margin-left: 2%;
+    margin-right: 10%;
+    margin-top: -10%;
+    margin-bottom: 80px;
+    font-size: 30px;
+    font-family:"Roboto";
+    text-align: center;
+    padding-top: 10px;
+}
+.buttomhardware{
+    margin-left: 80px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;
+    background-color:#4CAF50;
+    
+}
+.colorhardware1{
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+
+    
+}
+.colorhardware2{
+    grid-column: 2/3;
+    grid-row: 2/3;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+
+    
+}
+
+.colorhardware3{
+    grid-column: 3/4;
+    grid-row: 2/3;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+
+    
+}
+.colorhardware4{
+    grid-column: 1/2;
+    grid-row: 3/4;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+
+
+    
+}
+.colorhardware5{
+    grid-column: 2/3;
+    grid-row: 3/4;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+
+    
+}
+.colorhardware6{
+    grid-column: 3/4;
+    grid-row: 3/4;
+    background-color: #1236a3;
+    margin-right: 4%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+
+    
+}
+.colorsoftware1{
+    width: 90%;
+    grid-row: 2/3;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+
+    
+}
+.colorsoftware2{
+    width: 90%;
+    grid-row: 3/4;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+.colorsoftware3{
+    width: 90%;
+    grid-row: 4/5;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+.colorsoftware4{
+    width: 90%;
+    grid-row: 5/6;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+.colorsoftware5{
+    width: 90%;
+    grid-row: 6/7;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+.colorsoftware6{
+    width: 90%;
+    grid-row: 7/8;
+    background-color: #1236a3;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+}
+/* ______________SOFTWARE___________ */
+
+
+.buttomSoftware{
+    margin-left :85%;
+    color: white;
+    padding: 15px 32px;
+    text-align:justify;
+    cursor: pointer;
+    background-color:#4CAF50;
+    margin-top:-10%;
+    margin-bottom: 2%;
+
+}
+
+.textsoftwaretype{
+    margin-left: 50%;
+    margin-right: 20%;
+    margin-top: -16%;
+    font-family: "Water Brush&display=swa", Helvetica, sans-serif;
+    }
+
+.imagesoftware{
+    /* grid-column: 2/3; */
+    margin-left: 20%;
+    margin-right:60%;
+    margin-top: -13%;
+}
+
+.textsoftware{
+    padding-top: 20%;
+    padding-bottom: -1%;
+    margin-top: -10%;
+}
+/* ____________________hardware__________ */
+
+.image_page1_home_hard{
+    grid-column: 3;
+    grid-row: 1/1;
+    margin-left: 6%;
+    margin-top: 2%;
+}
+
+.fwname{
+    text-align: center;
+}
+.maintext{
+    text-align: center;
+    grid-column: 2/3;
+    font-family: "Roboto";
+    font:bolder;
+    font-weight: bolder;
+}
+
+.maintextsf{
+    text-align: center;
+    grid-column: 1/2;
+    font-family: "Roboto";
+    font:bolder;
+    font-weight: bolder;
+}
+
